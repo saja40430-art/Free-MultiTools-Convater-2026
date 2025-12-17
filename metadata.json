@@ -1,0 +1,8 @@
+{
+  "name": "Free All MultiTools Convater 2026",
+  "description": "A premium, responsive multi-tool web application featuring 20+ utilities and Gemini AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
